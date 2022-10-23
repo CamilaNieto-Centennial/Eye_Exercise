@@ -1,0 +1,16 @@
+{
+  "name": "Eye-Exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Eye-Exercise"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://CamilaNieto-Centennial.github.io/eyes",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
